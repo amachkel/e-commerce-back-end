@@ -1,6 +1,8 @@
 const router = require("express").Router();
 const { Product, Category, Tag, ProductTag } = require("../../models");
 
+// get, get by id, and update by id don't work anymore. WHY!?!?
+
 // The `/api/products` endpoint
 
 // get all products
