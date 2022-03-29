@@ -1,5 +1,5 @@
 # E-Commerce Back End
-[![made-with-javascript](https://img.shields.io/badge/Made%20with-JavaScript-blueviolet.svg)](https://www.javascript.com)  [![npm-version-8.3.1](https://img.shields.io/badge/npm%20version-8.3.1-blue)](https://img.shields.io/endpoint?url=https://www.npmjs.com/package/npm/v/8.3.1)   [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-green.svg)](http://makeapullrequest.com)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 	![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
 
 Internet retail, also known as **e-commerce**, is the largest sector of the electronics industry, generating an estimated $29 trillion in 2019. E-commerce platforms like Shopify and WooCommerce provide a suite of services to businesses of all sizes. Due to their prevalence, understanding the fundamental architecture of these platforms will benefit a full-stack web developer.
 
@@ -52,7 +52,8 @@ https://user-images.githubusercontent.com/84882398/160652261-5b08042c-ab59-48f9-
 * Sequelize
 
 ## Contributors
- If you would like to contribute, please contact me at amachkel@gmail.com.
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-green.svg)](http://makeapullrequest.com)
+ If you would like to contribute, please contact me at amachkel@gmail.com, or do a pull request.
 
 ## Tests 
  There are currently no tests for this project.
