@@ -1,10 +1,10 @@
-# E-Commerce Backend
+# E-Commerce Back End
 [![made-with-javascript](https://img.shields.io/badge/Made%20with-JavaScript-blueviolet.svg)](https://www.javascript.com)  [![npm-version-8.3.1](https://img.shields.io/badge/npm%20version-8.3.1-blue)](https://img.shields.io/endpoint?url=https://www.npmjs.com/package/npm/v/8.3.1)   [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-green.svg)](http://makeapullrequest.com)
 
 Internet retail, also known as **e-commerce**, is the largest sector of the electronics industry, generating an estimated $29 trillion in 2019. E-commerce platforms like Shopify and WooCommerce provide a suite of services to businesses of all sizes. Due to their prevalence, understanding the fundamental architecture of these platforms will benefit a full-stack web developer.
 
 ## Table Of Contents 
- - [description](#e-commerce-backend)
+ - [description](#e-commerce-back-end)
  - [installation](#installation-requirements)
  - [User Story](#user-story)
  - [Acceptance Criteria](#acceptance-criteria)
